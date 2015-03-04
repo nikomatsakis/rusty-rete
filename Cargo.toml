@@ -1,0 +1,5 @@
+[package]
+
+name = "rusty-rete"
+version = "0.0.1"
+authors = ["Niko Matsakis <niko@alum.mit.edu>"]
